@@ -89,6 +89,10 @@ h3 {
 .games-list-item .games-list-link {
     width: 100%;
     margin: 10px 0 10px 0;
+    opacity: 80%;
+}
+.games-list-item .games-list-link:hover {
+    opacity: 100%;
 }
 .games-list-item .games-list-description {
     width: 100%;
