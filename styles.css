@@ -86,6 +86,10 @@ h3 {
     display: flex;
     align-items: center;
 }
+.games-list-item .games-list-link {
+    width: 100%;
+    margin: 10px 0 10px 0;
+}
 .games-list-item .games-list-description {
     width: 100%;
 }
