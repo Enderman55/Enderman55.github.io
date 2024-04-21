@@ -79,7 +79,12 @@ h3 {
     margin-bottom: 20px;
 }
 .games-list-item .game-pic {
-    width: 25%;
+    width: 22%;
+    position: relative;
+    margin: 0 3% 0 0;
+}
+.games-list-item .game-pic img {
+    max-width: 100%;
 }
 .games-list-item .games-list-title {
     width: 75%;
