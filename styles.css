@@ -22,6 +22,9 @@ h1 {
 h2 {
     margin-top: 0;
 }
+h3 {
+    margin: 0;
+}
 .link-containers {
     display: flex;
     flex-wrap: wrap;
@@ -55,4 +58,28 @@ h2 {
 }
 .link-container li {
     margin-bottom: 10px;
+}
+
+.games-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.games-list-item {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.games-list-item .game-pic {
+    width: 25%;
+}
+.games-list-item .games-list-title {
+    width: 75%;
+    display: flex;
+    align-items: center;
+}
+.games-list-item .games-list-description {
+    width: 100%;
 }
