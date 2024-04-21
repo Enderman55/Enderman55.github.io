@@ -56,6 +56,12 @@ h3 {
     padding: 16px;
     margin: 20px 0px 20px 0px;
 }
+.hauptprojekte * {
+    color: white;
+}
+.nebenprojekte * {
+    color: #bbbbbb;
+}
 .link-container li {
     margin-bottom: 10px;
 }
