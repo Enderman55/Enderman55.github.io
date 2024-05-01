@@ -104,3 +104,12 @@ h3 {
 .games-list-item .games-list-description {
     width: 100%;
 }
+a {
+    background-color: red;
+    padding: 10px;
+    margin: 20px 20%;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+}
